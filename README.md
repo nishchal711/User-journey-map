@@ -1,8 +1,6 @@
 # User Journey Map – Samsung AI Smart Fridge
 
-## Student Details
-- Name: Nishchal
-- Roll No: 2K25CSUN06030
+
 
 ## Project Overview
 This project represents a User Journey Map for the Samsung AI Smart Fridge (AI Family Hub Refrigerator). The journey map explains how users interact with the smart refrigerator from awareness to daily usage and feedback.
